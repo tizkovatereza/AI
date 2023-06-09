@@ -111,7 +111,7 @@ TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AG
 - [1](https://arxiv.org/abs/2305.14314)
 - [1](https://a16z.com/2023/05/25/ai-canon/)
 - [1](https://dynomight.net/scaling/)
-
+	
 
 
 
