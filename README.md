@@ -26,22 +26,22 @@ TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AG
 [GitHub](https://github.com/slai-labs/get-beam)
 - [Gradio](https://gradio.app)	Build and share ML apps	[GitHub](https://github.com/hwchase17/langchain-gradio-template)
 - [HuggingFace Spaces](https://huggingface.co/spaces)	Deploy ML apps	
-- [Fixie](https://www.fixie.ai/)	Enterprise platform for building applications with Large Language Models	[GitHub](https://github.com/fixie-ai)
+- [Fixie](https://www.fixie.ai)	Enterprise platform for building applications with Large Language Models	[GitHub](https://github.com/fixie-ai)
 - [AI Legion]		Autonomous agent platform	[GitHub](https://github.com/eumemic/ai-legion)
 - [Agent LLM]		Agent and prompt management platform	[GitHub](https://github.com/Josh-XT/Agent-LLM)
-- [HuggingFace Agents]	(https://huggingface.co/docs/transformers/transformers_agents)	Platform for deploying LLM agents with tools	
+- [HuggingFace Agents](https://huggingface.co/docs/transformers/transformers_agents)	Platform for deploying LLM agents with tools	
 - [Promptr]		CLI to create and apply codebase changes based on a prompt and files context	[GitHub](https://github.com/ferrislucas/promptr)
-- [Relevance AI]	(https://relevanceai.com/)	The fastest platform to build and deploy AI chains	[GitHub](https://github.com/RelevanceAI)
-- [Fly.io]	(https://fly.io/)	Run your full stack apps (and databases!) all over the world. No ops required.	
-- [Modal]	(https://modal.com/)		
-- [AgentGPT]	(https://agentgpt.reworkd.ai/)	Configure and deploy autonomous AI agents	[GitHub](https://github.com/reworkd/AgentGPT)
-- [MLC LLM]	(https://mlc.ai/mlc-llm/)	Develop, optimize, deploy AI models	[GitHub](https://github.com/mlc-ai/mlc-llm)
-- [AimStack]	(https://aimstack.io/)	Aim logs all your AI metadata (experiments, prompts, etc) enables a UI to compare & observe them and SDK to query them programmatically.	[GitHub](https://github.com/aimhubio/aim)
-- [Vellum]	(https://www.vellum.ai/)	The developer platform for building production-worthy Large Language Model applications	
-- [GradientJ]	(https://gradientj.com/)	Platform to build large language model applications	
-- [Stack]	(https://www.stack-ai.com/)	Build and Deploy AI Applications in minutes	
-- [Humanloop]	(https://humanloop.com/)	The developer platform for LLM applications	[GitHub](https://github.com/humanloop)
-- [Flowise]	(https://flowiseai.com/)	Build LLMs Apps Easily	[GitHub](https://github.com/FlowiseAI/Flowise)
+- [Relevance AI](https://relevanceai.com/)	The fastest platform to build and deploy AI chains	[GitHub](https://github.com/RelevanceAI)
+- [Fly.io](https://fly.io/)	Run your full stack apps (and databases!) all over the world. No ops required.	
+- [Modal](https://modal.com/)		
+- [AgentGPT](https://agentgpt.reworkd.ai/)	Configure and deploy autonomous AI agents	[GitHub](https://github.com/reworkd/AgentGPT)
+- [MLC LLM](https://mlc.ai/mlc-llm/)	Develop, optimize, deploy AI models	[GitHub](https://github.com/mlc-ai/mlc-llm)
+- [AimStack](https://aimstack.io/)	Aim logs all your AI metadata (experiments, prompts, etc) enables a UI to compare & observe them and SDK to query them programmatically.	[GitHub](https://github.com/aimhubio/aim)
+- [Vellum](https://www.vellum.ai/)	The developer platform for building production-worthy Large Language Model applications	
+- [GradientJ](https://gradientj.com/)	Platform to build large language model applications	
+- [Stack](https://www.stack-ai.com/)	Build and Deploy AI Applications in minutes	
+- [Humanloop](https://humanloop.com/)	The developer platform for LLM applications	[GitHub](https://github.com/humanloop)
+- [Flowise](https://flowiseai.com/)	Build LLMs Apps Easily	[GitHub](https://github.com/FlowiseAI/Flowise)
 - [SuperAGI](https://superagi.com/)	Infrastructure for building your next app with <Autonomous Agents>	[GitHub](https://github.com/TransformerOptimus/SuperAGI)
 - [Graphsignal](https://graphsignal.com/)	Trace, monitor, and debug production AI agents and LLM-powered applications.	[GitHub](https://github.com/graphsignal/graphsignal-python)
 - [Pezzo](https://www.pezzo.ai/)	We want to democratize AI and create a provider/model-agnostic platform that’ll enable anyone to benefit from Generative AI without vendor locking.	[GitHub](https://github.com/pezzolabs/pezzo)
