@@ -44,10 +44,11 @@ TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AG
 - [Flowise](https://flowiseai.com/)	Build LLMs Apps Easily	[GitHub](https://github.com/FlowiseAI/Flowise)
 - [SuperAGI](https://superagi.com/)	Infrastructure for building your next app with <Autonomous Agents>	[GitHub](https://github.com/TransformerOptimus/SuperAGI)
 - [Graphsignal](https://graphsignal.com/)	Trace, monitor, and debug production AI agents and LLM-powered applications.	[GitHub](https://github.com/graphsignal/graphsignal-python)
-- [Pezzo](https://www.pezzo.ai/)	We want to democratize AI and create a provider/model-agnostic platform that’ll enable anyone to benefit from Generative AI without vendor locking.	[GitHub](https://github.com/pezzolabs/pezzo)
-			
+- [Pezzo](https://www.pezzo.ai/)	We want to democratize AI and create a provider/model-agnostic platform that’ll enable anyone to benefit from Generative AI without vendor locking.	[GitHub](https://github.com/pezzolabs/pezzo)			
 <br>
-##AI Agents Reading Materials
+	
+## Ai Agents - reading materials
+	
 - [GitHub - Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering)
 - [1](https://generative.ink/posts/methods-of-prompt-programming)
 - [1](https://generative.ink/posts/simulators/)
