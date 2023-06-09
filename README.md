@@ -2,6 +2,7 @@
 ## Useful AI-related resources
 
 ## Ai Agents for dummies
+TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AGENTS TO NON-TECHNICAL PEOPLE
 <br>
 
 ## Getting the big picture
