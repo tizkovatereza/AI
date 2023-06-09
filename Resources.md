@@ -115,7 +115,7 @@ TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AG
 <br>
 	
 ## LLMs
-- [Introducing Chat Notebooks: Integrating LLMs into the Notebook Paradigm]((https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
+- [Introducing Chat Notebooks: Integrating LLMs into the Notebook Paradigm](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
 		
 	
 
