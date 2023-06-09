@@ -7,24 +7,24 @@
 [Visual breakdown on the different types of LangChain agents](https://twitter.com/jamescodez/status/1664032515882094592/photo/1)
 <br>
 ## Ai Agents building companies
-- [Altered State Machine](https://www.alteredstatemachine.xyz/) 
+- [Altered State Machine](https://www.alteredstatemachine.xyz) 
 
 
 
 ## Unsorted AI Agents-related companies
 - [OpenAI](https://openai.com)
 - [Haystack](https://haystack.deepset.ai)	Semantic search with LLM but they added agents and tools	https://github.com/deepset-ai/haystack
-- [JinaAI]	(https://jina.ai/)	Framework to build multimodal AI microservice-based applications written in Python that can communicate via gRPC, HTTP and WebSocket protocols.	(https://github.com/jina-ai/jina)
-- [Dust]	(https://dust.tt/)	Design and deploy LLM apps	https://github.com/dust-tt/dust
+- [JinaAI]	(https://jina.ai)	Framework to build multimodal AI microservice-based applications written in Python that can communicate via gRPC, HTTP and WebSocket protocols.	(https://github.com/jina-ai/jina)
+- [Dust]	(https://dust.tt)	Design and deploy LLM apps	https://github.com/dust-tt/dust
 - [Scale Spellbook]]	(https://scale.com/spellbook)	Build, compare and deploy LLM apps	
-- [Databutton]	(https://databutton.com/)	Deploy and share AI apps	
-- [BentoML]	(https://www.bentoml.com/)	Automatic model containarization and OpenAPI/gRPC endpoint generation and deployment.	https://github.com/bentoml/BentoML
+- [Databutton]	(https://databutton.com)	Deploy and share AI apps	
+- [BentoML]	(https://www.bentoml.com)	Automatic model containarization and OpenAPI/gRPC endpoint generation and deployment.	https://github.com/bentoml/BentoML
 - [BentoChain]		Depoy LangChain apps with BentoML	(https://github.com/ssheng/BentoChain)
 - [JinaAI+Langchain		Deploy LangChain apps to Jina AI Cloud (there is example of deploying babyagi)]	(https://github.com/jina-ai/langchain-serve
-- [Steamship]	(https://www.steamship.com/)	Build, Host, and Share AI Apps with LLMs, Tools, Embeddings, Tasks, and more.	https://github.com/steamship-core/steamship-langchain/
-- [Beam]	(https://www.beam.cloud/)	"Beam enables you to develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models — without managing any infrastructure.
+- [Steamship]	(https://www.steamship.com)	Build, Host, and Share AI Apps with LLMs, Tools, Embeddings, Tasks, and more.	https://github.com/steamship-core/steamship-langchain/
+- [Beam]	(https://www.beam.cloud)	"Beam enables you to develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models — without managing any infrastructure.
 "(	https://github.com/slai-labs/get-beam)
-- [Gradio]	(https://gradio.app/)	Build and share ML apps	https://github.com/hwchase17/langchain-gradio-template
+- [Gradio]	(https://gradio.app)	Build and share ML apps	https://github.com/hwchase17/langchain-gradio-template
 - [HuggingFace Spaces]	(https://huggingface.co/spaces)	Deploy ML apps	
 
 
