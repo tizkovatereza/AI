@@ -107,12 +107,12 @@ TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AG
 - [1](https://thealgorithmicbridge.substack.com/p/open-source-ai-is-not-winningincumbents?utm_source=post-email-)
 - [1](title&publication_id=883883&post_id=124676136&isFreemail=true&utm_medium=email)
 - [1](https://www.linkedin.com/pulse/frontiers-startups-2023-shyamal-hitesh-anadkat%3FtrackingId=v0Oy2ZnKoJ9b5GzpnFknVA%253D%253D/?trckingId=v0Oy2ZnKoJ9b5GzpnFknVA%3D%3D)
-- \[1\]\(https://info.nvidia.com/large-language-models-in-life-sciences-webinar.html?ncid=so-nvsh-595049&ondemandrgt=yes#cid=ix10_so-nvsh_en-eu\)
-- \[1\]\(https://platform.openai.com/docs/guides/gpt-best-practices\)
-- \[1\]\(https://arxiv.org/abs/2305.14314\)
-- \[1\]\(https://a16z.com/2023/05/25/ai-canon/\)
-- \[1\]\(https://dynomight.net/scaling/\)
-	
+- [Link 1](https://info.nvidia.com/large-language-models-in-life-sciences-webinar.html?ncid=so-nvsh-595049&ondemandrgt=yes#cid=ix10_so-nvsh_en-eu)
+- [Link 2](https://platform.openai.com/docs/guides/gpt-best-practices)
+- [Link 3](https://arxiv.org/abs/2305.14314)
+- [Link 4](https://a16z.com/2023/05/25/ai-canon/)
+- [Link 5](https://dynomight.net/scaling/)
+
 
 
 
