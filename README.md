@@ -4,16 +4,12 @@
 ## Ai Agents for dummies
 <br>
 
-## Ai Agents for big picture
+## Getting the big picture
 [Visual breakdown on the different types of LangChain agents](https://twitter.com/jamescodez/status/1664032515882094592/photo/1)
 <br>
 
-## Ai Agents building companies
-- [Altered State Machine](https://www.alteredstatemachine.xyz) 
-
-
-
-## Unsorted AI Agents-related companies
+## Ai Agents - related companies
+- [Altered State Machine](https://www.alteredstatemachine.xyz) Allowing users to train their own AI agents and models 
 - [OpenAI](https://openai.com)
 - [Haystack](https://haystack.deepset.ai)	Semantic search with LLM but they added agents and tools. [GitHub](https://github.com/deepset-ai/haystack)
 - [JinaAI](https://jina.ai) Framework to build multimodal AI microservice-based applications written in Python that can communicate via gRPC, HTTP and WebSocket protocols.[GitHub](https://github.com/jina-ai/jina)
