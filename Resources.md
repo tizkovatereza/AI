@@ -48,8 +48,7 @@ TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AG
 			
 <br>
 ##AI Agents Reading Materials
-- [GitHub - Prompt Engineering]
-	(https://lilianweng.github.io/posts/2023-03-15-prompt-engineering)
+- [GitHub - Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering)
 - [1](https://generative.ink/posts/methods-of-prompt-programming)
 - [1](https://generative.ink/posts/simulators/)
 - [1](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)
