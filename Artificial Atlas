@@ -5,6 +5,11 @@
 TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AGENTS TO NON-TECHNICAL PEOPLE
 <br>
 
+
+## Papers about large language models
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - This paper suggests that LLMs benefit greatly from being prompted to both act and think, rather than just doing one, or the other.
+
+
 ## Visualisations for getting the "big picture"
 - [LLMs Evolutionary Tree](https://github.com/Mooler0410/LLMsPracticalGuide)
 - [Visual breakdown on the different types of LangChain agents](https://twitter.com/jamescodez/status/1664032515882094592/photo/1)
