@@ -10,6 +10,19 @@ TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AG
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - This paper proves the hypothesis that LLMs benefit from being prompted to both act and think, compared to just using one of these paradigms.
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf)
+- [Haystack](https://haystack.deepset.ai) Semantic search with LLM but they added agents and tools. [GitHub](https://github.com/deepset-ai/haystack)
+
+
+## Frameworks and tools for building AI and LLM apps
+- [JinaAI](https://jina.ai) Framework to build multimodal AI microservice-based applications written in Python that can communicate via gRPC, HTTP and WebSocket protocols.[GitHub](https://github.com/jina-ai/jina)
+- [Dust](https://dust.tt)	Design and deploy LLM apps	[GitHub](https://github.com/dust-tt/dust)
+- [Scale Spellbook](https://scale.com/spellbook)	Build, compare and deploy LLM apps	
+- [Databutton](https://databutton.com)	Deploy and share AI apps	
+- [BentoChain]		Depoy LangChain apps with BentoML	(https://github.com/ssheng/BentoChain)
+- [JinaAI+Langchain		Deploy LangChain apps to Jina AI Cloud (there is example of deploying babyagi)]	(https://github.com/jina-ai/langchain-serve
+- [Steamship]	(https://www.steamship.com)	Build, Host, and Share AI Apps with LLMs, Tools, Embeddings, Tasks, and more.	[GitHub](https://github.com/steamship-core/steamship-langchain/)
+- [Beam](https://www.beam.cloud)	"Beam enables you to develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models — without managing any infrastructure.
+[GitHub](https://github.com/slai-labs/get-beam)
 
 ## Visualisations for getting the "big picture"
 - [LLMs Evolutionary Tree](https://github.com/Mooler0410/LLMsPracticalGuide)
@@ -18,18 +31,8 @@ TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AG
 
 ## Ai Agents - related companies
 - [Altered State Machine](https://www.alteredstatemachine.xyz) Allowing users to train their own AI agents and models 
-- [OpenAI](https://openai.com)
-- [Haystack](https://haystack.deepset.ai)	Semantic search with LLM but they added agents and tools. [GitHub](https://github.com/deepset-ai/haystack)
-- [JinaAI](https://jina.ai) Framework to build multimodal AI microservice-based applications written in Python that can communicate via gRPC, HTTP and WebSocket protocols.[GitHub](https://github.com/jina-ai/jina)
-- [Dust](https://dust.tt)	Design and deploy LLM apps	[GitHub](https://github.com/dust-tt/dust)
-- [Scale Spellbook](https://scale.com/spellbook)	Build, compare and deploy LLM apps	
-- [Databutton](https://databutton.com)	Deploy and share AI apps	
 - [BentoML]	(https://www.bentoml.com)	Automatic model containarization and OpenAPI/gRPC endpoint generation and deployment.	https://github.com/bentoml/BentoML
-- [BentoChain]		Depoy LangChain apps with BentoML	(https://github.com/ssheng/BentoChain)
-- [JinaAI+Langchain		Deploy LangChain apps to Jina AI Cloud (there is example of deploying babyagi)]	(https://github.com/jina-ai/langchain-serve
-- [Steamship]	(https://www.steamship.com)	Build, Host, and Share AI Apps with LLMs, Tools, Embeddings, Tasks, and more.	[GitHub](https://github.com/steamship-core/steamship-langchain/)
-- [Beam](https://www.beam.cloud)	"Beam enables you to develop on serverless GPUs, deploy highly performant APIs, and rapidly prototype ML models — without managing any infrastructure.
-[GitHub](https://github.com/slai-labs/get-beam)
+
 - [Gradio](https://gradio.app)	Build and share ML apps	[GitHub](https://github.com/hwchase17/langchain-gradio-template)
 - [HuggingFace Spaces](https://huggingface.co/spaces)	Deploy ML apps	
 - [Fixie](https://www.fixie.ai)	Enterprise platform for building applications with Large Language Models	[GitHub](https://github.com/fixie-ai)
