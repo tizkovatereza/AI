@@ -32,7 +32,6 @@ TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AG
 ## Ai Agents - related companies
 - [Altered State Machine](https://www.alteredstatemachine.xyz) Allowing users to train their own AI agents and models 
 - [BentoML]	(https://www.bentoml.com)	Automatic model containarization and OpenAPI/gRPC endpoint generation and deployment.	https://github.com/bentoml/BentoML
-
 - [Gradio](https://gradio.app)	Build and share ML apps	[GitHub](https://github.com/hwchase17/langchain-gradio-template)
 - [HuggingFace Spaces](https://huggingface.co/spaces)	Deploy ML apps	
 - [Fixie](https://www.fixie.ai)	Enterprise platform for building applications with Large Language Models	[GitHub](https://github.com/fixie-ai)
@@ -58,8 +57,18 @@ TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AG
 	
 ## Ai Agents - reading materials
 	
+## LLMs	
+	
+	
+## Prompt engineering
 - [GitHub - Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering)
 - [Methods of Prompt Programming](https://generative.ink/posts/methods-of-prompt-programming)
+	
+	
+##General AI resources
+- [Latent Space](https://www.latent.space/) - Podcast Latent Space	
+	
+## Unsorted
 - [Simulators](https://generative.ink/posts/simulators/)
 - [Maximizing the potential of LLMs](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)
 - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
@@ -67,7 +76,7 @@ TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AG
 - [Intro to GPT 3 Prompts](https://buildspace.so/notes/intro-to-gpt3-prompts)
 - [Twitter - Introducing "🤖 Task-driven Autonomous Agent"](https://twitter.com/yoheinakajima/status/1640934493489070080?s=20)
 - [LangChain - Agents Round](https://blog.langchain.dev/agents-round/)
-- [Latent Space](https://www.latent.space/)
+
 - [Swyx - AI Notes](https://github.com/sw-yx/ai-notes/)
 - [1](https://twitter.com/i/lists/1585430245762441216)
 - [1](https://www.ted.com/talks/greg_brockman_the_inside_story_of_chatgpt_s_astonishing_potential/c)
@@ -91,7 +100,7 @@ TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AG
 - [1](https://matt-rickard.com/autonomous-llm-agents-are-at-least-10-years-out)
 - [1](https://news.ycombinator.com/item?id=35889743)
 - [1](https://huggingface.co/docs/transformers/transformers_agents)
-- [1](https://blog.langchain.dev/structured-tools/)
+- [Langchain - Structured Tools](https://blog.langchain.dev/structured-tools/)
 - [1](https://twitter.com/swyx/status/1657578738345979905)
 - [1](https://python.langchain.com/en/latest/use_cases/code/code-analysis-deeplake.html)
 - [1](https://python.langchain.com/en/latest/use_cases/code.html#)
