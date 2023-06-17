@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
   </a>
 
-# :shipit: AI agents and more
+# :gem: AI agents and more
 Useful resources, sorted such that they follow your journey from the beginning. Starting with AI agents "for dummies" and some intuition, through 
 
 ## Ai Agents for non-technical people
