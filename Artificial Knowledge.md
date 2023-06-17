@@ -11,10 +11,11 @@
 # :gem: AI agents and more
 Useful resources, sorted such that they follow your journey from the beginning. Starting with AI agents "for dummies" and some intuition, through 
 
-## Ai Agents for non-technical people
-- [AI Agents For Beginners - Intuitive explanation](https://medium.com/@tereza-tizkova/ai-agents-for-beginners-228b7bd813d4) June 14, 2023
-- [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) Overview of autonomous agents, the biggest projects and interesting sources. April 18, 2023
-- [What is an AI Agent? Characteristics, Advantages, Challenges, Applications](https://www.simform.com/blog/ai-agent/) AI agents's structure and functioning explained visually via diagrams. Summary of basic types of agentsvMay 26, 2023
+## :gem: Ai Agents for non-technical people
+- *June 14, 2023* [**AI Agents For Beginners - Intuitive explanation**](https://medium.com/@tereza-tizkova/ai-agents-for-beginners-228b7bd813d4) <br>
+- *April 18, 2023* [**The Complete Beginners Guide To Autonomous Agents**](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) - Overview of autonomous agents, the biggest projects and interesting sources. <br> 
+- *May 26, 2023* [**What is an AI Agent? Characteristics, Advantages, Challenges, Applications**](https://www.simform.com/blog/ai-agent/) - AI agents's structure and functioning explained visually via diagrams. Summary of basic types of agents <br>
+- [**What are agents in Artificial Intelligence?**](https://www.educative.io/answers/what-are-agents-in-artificial-intelligence) - An article about intelligent agents
 
 ## Papers about large language models
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - This paper proves the hypothesis that LLMs benefit from being prompted to both act and think, compared to just using one of these paradigms.
