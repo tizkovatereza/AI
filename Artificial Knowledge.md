@@ -1,5 +1,5 @@
 
- [![Discord](https://img.shields.io/static/v1?label=Discord&message=join%20us!&color=mediumslateblue)](https://discord.gg/5GmKg5Uz)
+ [![Join our community](https://img.shields.io/static/v1?label=Discord&message=join%20us!&color=mediumslateblue)](https://discord.gg/5GmKg5Uz)
 
 # AI agents
 ## Useful AI-related resources
