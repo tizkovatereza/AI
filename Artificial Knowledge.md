@@ -8,8 +8,8 @@
     <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
   </a>
 
-# AI agents
-## Useful AI-related resources
+# :shipit: AI agents and more
+Useful resources, sorted such that they follow your journey from the beginning. Starting with AI agents "for dummies" and some intuition, through 
 
 ## Ai Agents for non-technical people
 [AI Agents For Beginners - Intuitive explanation](https://medium.com/@tereza-tizkova/ai-agents-for-beginners-228b7bd813d4)
