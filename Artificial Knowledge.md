@@ -1,10 +1,8 @@
 
  [![Discord](https://img.shields.io/static/v1?label=Join&message=Our%20Discord!&color=mediumslateblue)](https://discord.gg/5GmKg5Uz)
- <p align="center">
   <a href="https://github.com/tizkovatereza/AI/blob/main/Artificial%20Knowledge.md/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
-</p>
 
 # AI agents
 ## Useful AI-related resources
