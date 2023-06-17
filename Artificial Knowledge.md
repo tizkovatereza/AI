@@ -1,5 +1,5 @@
 
- [![Discord](https://img.shields.io/static/v1?label=Join&message=Our%20Discord!&color=mediumslateblue)](https://discord.gg/5GmKg5Uz)
+ [![Discord](https://img.shields.io/static/v1?label=join&message=our%20discord!&color=mediumslateblue)](https://discord.gg/5GmKg5Uz)
   <a href="https://github.com/tizkovatereza/AI/blob/main/Artificial%20Knowledge.md/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
@@ -11,10 +11,13 @@
 Useful resources, sorted such that they follow your journey from the beginning. Starting with AI agents "for dummies" and some intuition, through 
 
 ## Ai Agents for non-technical people
-[AI Agents For Beginners - Intuitive explanation](https://medium.com/@tereza-tizkova/ai-agents-for-beginners-228b7bd813d4)
+- [AI Agents For Beginners - Intuitive explanation](https://medium.com/@tereza-tizkova/ai-agents-for-beginners-228b7bd813d4)
+	- June 14, 2023
 <br>
-[The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) - Overview of autonomous agents, the biggest projects and interesting sources.
-April 18, 2023
+- [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) - Overview of autonomous agents, the biggest projects and interesting sources.
+	- April 18, 2023
+- [What is an AI Agent? Characteristics, Advantages, Challenges, Applications](https://www.simform.com/blog/ai-agent/) - AI agents's structure and functioning explained visually via diagrams. Summary of basic types of agentsv
+	- May 26, 2023
 
 ## Papers about large language models
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - This paper proves the hypothesis that LLMs benefit from being prompted to both act and think, compared to just using one of these paradigms.
