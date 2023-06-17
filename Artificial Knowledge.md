@@ -1,5 +1,10 @@
 
  [![Discord](https://img.shields.io/static/v1?label=Join&message=Our%20Discord!&color=mediumslateblue)](https://discord.gg/5GmKg5Uz)
+ <p align="center">
+  <a href="https://github.com/tizkovatereza/AI/blob/main/Artificial%20Knowledge.md/pulls">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
+  </a>
+</p>
 
 # AI agents
 ## Useful AI-related resources
@@ -7,7 +12,8 @@
 ## Ai Agents for non-technical people
 [AI Agents For Beginners - Intuitive explanation](https://medium.com/@tereza-tizkova/ai-agents-for-beginners-228b7bd813d4)
 <br>
-[The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) - Overview of autonomous agents
+[The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) - Overview of autonomous agents, the biggest projects and interesting sources.
+April 18, 2023
 
 ## Papers about large language models
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - This paper proves the hypothesis that LLMs benefit from being prompted to both act and think, compared to just using one of these paradigms.
