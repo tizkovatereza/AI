@@ -3,7 +3,6 @@
   <a href="https://github.com/tizkovatereza/AI/blob/main/Artificial%20Knowledge.md/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
-  
   <a href="https://twitter.com/e2b_dev" target="_blank">
     <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
   </a>
