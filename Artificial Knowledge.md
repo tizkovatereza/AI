@@ -6,6 +6,7 @@
   <a href="https://twitter.com/e2b_dev" target="_blank">
     <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
   </a>
+  
 
 # :gem: AI agents and more
 Useful resources, sorted such that they follow your journey from the beginning. Starting with AI agents "for dummies" and some intuition, through 
