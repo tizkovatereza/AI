@@ -5,7 +5,7 @@
   </a>
   
   <a href="https://twitter.com/e2b_dev" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/trimstray.svg?logo=twitter">
+    <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
   </a>
 
 # AI agents
