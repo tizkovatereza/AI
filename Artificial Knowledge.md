@@ -9,7 +9,7 @@
   
 
 # :gem: AI agents and more
-Useful resources, sorted such that they follow your journey from the beginning. Starting with AI agents "for dummies" and some intuition, through 
+Useful resources, sorted such that they follow your journey from the beginning. Starting with AI agents "for dummies" and some intuition, through overarching sources and papers to deep-dive into the topics, to building your own agent and finding inspiration in existing use cases.
 
 ## :gem: Ai Agents for non-technical people
 - *June 14, 2023* [**AI Agents For Beginners - Intuitive explanation**](https://medium.com/@tereza-tizkova/ai-agents-for-beginners-228b7bd813d4) <br>
@@ -17,14 +17,42 @@ Useful resources, sorted such that they follow your journey from the beginning. 
 - *May 26, 2023* [**What is an AI Agent? Characteristics, Advantages, Challenges, Applications**](https://www.simform.com/blog/ai-agent/) - AI agents's structure and functioning explained visually via diagrams. Summary of basic types of agents <br>
 - [**What are agents in Artificial Intelligence?**](https://www.educative.io/answers/what-are-agents-in-artificial-intelligence) - An article about intelligent agents
 
-## Papers about large language models
-- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - This paper proves the hypothesis that LLMs benefit from being prompted to both act and think, compared to just using one of these paradigms.
-- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
-- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf)
-- [Haystack](https://haystack.deepset.ai) Semantic search with LLM but they added agents and tools. [GitHub](https://github.com/deepset-ai/haystack)
+## :gem: Overarching resources
+### :gem: Canons
+- [**AI canon**](https://a16z.com/2023/05/25/ai-canon/)
+### :gem: News
+- [**Hackernews**]()
+- [**Ben's Bites**](https://www.bensbites.co/) - Daily summary of what's happening in AI
+- [**Algorithmic bridge**](https://thealgorithmicbridge.substack.com/) - AI in the context of people, business and philosophy
+### :gem: Forums
+- [**r/Programminghumor**]() - Memes
+- [**r/Wallstreetbets**](https://www.reddit.com/r/wallstreetbets/) - Memes
+### :gem: Podcasts
+- [**Latent Space**](https://www.latent.space/) - Technical newsletter about AI engineering
+### :gem: Newsletters
+- [**Semianalysis**](https://www.semianalysis.com/) - Newsletter about hardware and semiconductor research
+ 
+
+## :gem: Papers and professional resources
+### :gem: Large language models
+- [**ReAct: Synergizing Reasoning and Acting in Language Models**](https://arxiv.org/abs/2210.03629) - This paper proves the hypothesis that LLMs benefit from being prompted to both act and think, compared to just using one of these paradigms.
+- [**Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**](https://arxiv.org/abs/2201.11903)
+- [**Tree of Thoughts: Deliberate Problem Solving with Large Language Models**](https://arxiv.org/pdf/2305.10601.pdf)
+- [**Haystack**](https://haystack.deepset.ai) Semantic search with LLM but they added agents and tools. [GitHub](https://github.com/deepset-ai/haystack)
+### :gem: Prompt engineering
+- [**Improving Few-Shot Performance of Language Models**](https://arxiv.org/abs/2102.09690) - Paper
+- [**GitHub - Prompt Engineering**](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering)
+- [**Methods of Prompt Programming**](https://generative.ink/posts/methods-of-prompt-programming)
+- [**Semantic Kernel**](https://github.com/microsoft/semantic-kernel)
+- [**Prompt Perfect**](https://promptperfect.jina.ai/)
+- [**Learn Prompting**](https://learnprompting.org/docs/intro)
+- [**Prompt Engineering Guide**](https://github.com/dair-ai/Prompt-Engineering-Guide) - Prompt Engineering Guide repo contains a pretty comprehensive collection of education materials on prompt engineering
+- [**Langchain API Reference**](https://api.python.langchain.com/en/latest/) - LangChain, a library for combining language models with other components to build applications.
+- [**OpenAI Cookbook**](https://github.com/openai/openai-cookbook) - OpenAI Cookbook has many in-depth examples for how to utilize LLM efficiently
 
 
-## Frameworks and tools for building AI and LLM apps
+
+## :gem: Frameworks and tools for building AI and LLM apps
 - [JinaAI](https://jina.ai) Framework to build multimodal AI microservice-based applications written in Python that can communicate via gRPC, HTTP and WebSocket protocols.[GitHub](https://github.com/jina-ai/jina)
 - [Dust](https://dust.tt)	Design and deploy LLM apps	[GitHub](https://github.com/dust-tt/dust)
 - [Scale Spellbook](https://scale.com/spellbook)	Build, compare and deploy LLM apps	
@@ -69,12 +97,7 @@ Useful resources, sorted such that they follow your journey from the beginning. 
 ## Ai Agents - reading materials
 	
 ## LLMs	
-	
-	
-## Prompt engineering
-- [GitHub - Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering)
-- [Methods of Prompt Programming](https://generative.ink/posts/methods-of-prompt-programming)
-	
+
 	
 ##General AI resources
 - [Latent Space](https://www.latent.space/) - Podcast Latent Space	
@@ -146,6 +169,37 @@ Useful resources, sorted such that they follow your journey from the beginning. 
 ## LLMs
 - [Introducing Chat Notebooks: Integrating LLMs into the Notebook Paradigm](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
 		
+
+##AI Agents
+- [**AutoGPT**](https://autogpt.net/)[GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
+- [**BabyAGI**](https://github.com/yoheinakajima/babyagi)
+- [**MultiOn**](https://multion.ai/)
+- [**Smol developer**](https://github.com/smol-ai/developer)
+- [**Naut.ai**] (https://www.naut.ai/)
+- [**Second**](https://www.second.dev/)
+- [**Saga**](https://saga.so/) 
+- [**Hex Magic**](https://hex.tech/product/magic-ai/)
+- [**AIrplane**](https://www.airplane.dev/) - Developer infrastructure for internal tools
+- [**Hyperwrite**](https://www.hyperwriteai.com/) - Your personal AI writing assistant
+- [**Factory**](https://www.factory.ai/)
+- [**Sweep**](https://sweep.dev/) 
+- [**Minion AI**](https://minion.ai/) 
+- [**LastMile AI**](https://lastmileai.dev/)
+- [**Aomni**](Aomni.com)
+- [**Bloop**](https://bloop.ai/)
+- [**Butternut AI**](Butternut.ai)
+- [**Heymoon.ai**](https://heymoon.ai/) - Personal assistant for life: to keep you on top of your calendar, tasks and information. Was at Llama event demo
+- [**GitWit**](https://www.gitwit.dev/) 
+- [**BitBuilder**](BitBuilder)
+- [**Pezzo**](https://www.pezzo.ai/)
+- [**Databerry**](https://www.databerry.ai/)
+- [**Cognosys**](https://cognosys.ai) - Friendly UI for building AI agents
+- [**AgentGPT**](https://agentgpt.reworkd.ai/)
+- [**Superagent**](https://www.superagent.sh/)
+- [**Grit**](https://www.grit.io/)
+- [**Fixie**](https://www.fixie.ai/)
+
+
 	
 
 
