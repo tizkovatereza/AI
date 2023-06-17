@@ -1,10 +1,13 @@
+
+ [![Discord](https://img.shields.io/static/v1?label=Discord&message=join%20us!&color=mediumslateblue)](https://discord.gg/5GmKg5Uz)
+
 # AI agents
 ## Useful AI-related resources
 
-## Ai Agents for dummies
-TO BE WRITTEN, AS I HAVENT FOUND ANY GOOD QUALITY RESOURCES FOR EXPLAINING AI AGENTS TO NON-TECHNICAL PEOPLE
+## Ai Agents for non-technical people
+[AI Agents For Beginners - Intuitive explanation](https://medium.com/@tereza-tizkova/ai-agents-for-beginners-228b7bd813d4)
 <br>
-
+[The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) - Overview of autonomous agents
 
 ## Papers about large language models
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - This paper proves the hypothesis that LLMs benefit from being prompted to both act and think, compared to just using one of these paradigms.
