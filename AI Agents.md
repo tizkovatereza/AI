@@ -1,6 +1,6 @@
 ## AI Agents
 
-- [**AgentGPT**](https://agentgpt.reworkd.ai/); [GitHub](https://github.com/reworkd/AgentGPT); *[more info](https://github.com/tizkovatereza/AI/blob/main/AI%20Agents)*
+- [**AgentGPT**](https://agentgpt.reworkd.ai/); [GitHub](https://github.com/reworkd/AgentGPT)
 - [**AIrplane**](https://www.airplane.dev/) - Developer infrastructure for internal tools
 - [**Aomni**](Aomni.com)
 - [**AutoGPT**](https://autogpt.net/) [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
