@@ -9,7 +9,8 @@
   
 
 # :gem: AI agents and more
-Useful resources, sorted such that they follow your journey from the beginning. Starting with AI agents "for dummies" and some intuition, through overarching sources and papers to deep-dive into the topics, to building your own agent and finding inspiration in existing use cases.
+Useful resources, sorted such that they follow your journey from the beginning. Starting with [AI agents](https://github.com/tizkovatereza/AI/blob/main/AI%20Agents.md) "for dummies" and some intuition, through overarching sources and papers to deep-dive into the topics, to building your own agent and finding inspiration in existing use cases.
+
 
 ## :gem: Ai Agents for non-technical people
 - *June 14, 2023* [**AI Agents For Beginners - Intuitive explanation**](https://medium.com/@tereza-tizkova/ai-agents-for-beginners-228b7bd813d4) <br>
@@ -156,7 +157,7 @@ Useful resources, sorted such that they follow your journey from the beginning. 
 - [**Scaling**](https://dynomight.net/scaling/)
 
 ## AI Agents
-*Find more details about each agent in the special file [here](https://github.com/tizkovatereza/AI/blob/main/AI%20Agents).*
+*Find more details about each agent in the special file [here](https://github.com/tizkovatereza/AI/blob/main/AI%20Agents.md).*
 - [**AgentGPT**](https://agentgpt.reworkd.ai/); [GitHub](https://github.com/reworkd/AgentGPT);
 - [**AIrplane**](https://www.airplane.dev/)
 - [**Aomni**](Aomni.com)
@@ -192,7 +193,7 @@ Useful resources, sorted such that they follow your journey from the beginning. 
 - [**Twitter - Introducing "🤖 Task-driven Autonomous Agent"**](https://twitter.com/yoheinakajima/status/1640934493489070080?s=20)
 
 
-## *>> [More info about AI Agents](https://github.com/tizkovatereza/AI/blob/main/AI%20Agents)*
+## *>> [More info about AI Agents](https://github.com/tizkovatereza/AI/blob/main/AI%20Agents.md)*
 
 <br>
 
