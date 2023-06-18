@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary>[**AgentGPT**](https://agentgpt.reworkd.ai/)</summary>
+  <summary>**AgentGPT**
 
   - [**AgentGPT**](https://agentgpt.reworkd.ai/)
 	- Stack:
