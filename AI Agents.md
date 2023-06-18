@@ -1,26 +1,15 @@
 # 🔮: AI Agents
 
-- [**AgentGPT**](https://agentgpt.reworkd.ai/)
+
+<details>
+  <summary>[**AgentGPT**](https://agentgpt.reworkd.ai/)</summary>
+
+  - [**AgentGPT**](https://agentgpt.reworkd.ai/)
 	- Stack:
 		- Frontend: NextJS + Typescript
 		- Backend: FastAPI + Python
 		- DB: MySQL through docker with the option of running SQLite locally
 	-  [GitHub](https://github.com/reworkd/AgentGPT)
-<details>
-  <summary>[**AgentGPT**](https://agentgpt.reworkd.ai/)</summary>
-
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
 </details>
 
 - [**AI Legion**](https://gpt3demo.com/apps/ai-legion)
