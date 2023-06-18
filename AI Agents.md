@@ -1,7 +1,7 @@
 ## AI Agents
 
 - [**AgentGPT**](https://agentgpt.reworkd.ai/); [GitHub](https://github.com/reworkd/AgentGPT)
-- 	- Stack
+	- Stack
 		- 💅 Frontend: NextJS + Typescript
 		- 🐍 Backend: FastAPI + Python
 		- 📚 DB: MySQL through docker with the option of running SQLite locally
