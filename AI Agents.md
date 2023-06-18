@@ -3,12 +3,14 @@
 <details>
 	<summary> AgentGPT
 	</summary>
+	
 	- [**AgentGPT**](https://agentgpt.reworkd.ai/)
 	- Stack:
 		- Frontend: NextJS + Typescript
 		- Backend: FastAPI + Python
 		- DB: MySQL through docker with the option of running SQLite locally
 	-  [GitHub](https://github.com/reworkd/AgentGPT)
+	
 </details>
 <details>
   <summary> AgentGPT
