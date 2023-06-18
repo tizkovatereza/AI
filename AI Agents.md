@@ -2,8 +2,7 @@
 
 
 <details>
-  <summary>AgentGPT
-
+  <summary> AgentGPT
   - [**AgentGPT**](https://agentgpt.reworkd.ai/)
 	- Stack:
 		- Frontend: NextJS + Typescript
