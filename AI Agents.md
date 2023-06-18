@@ -9,10 +9,16 @@
 	- Agents provide sources / citations to their responses
 	- Offer [templates](https://agentgpt.reworkd.ai/templates) for ready-to-deploy agetns 
 	-  [GitHub](https://github.com/reworkd/AgentGPT)
+- [**AI Legion**](https://gpt3demo.com/apps/ai-legion)
+	- [GitHub](https://github.com/eumemic/ai-legion)
 - [**AIrplane**](https://www.airplane.dev/) - Developer infrastructure for internal tools
 - [**Aomni**](Aomni.com)
 - [**AutoGPT**](https://autogpt.net/) [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
 - [**BabyAGI**](https://github.com/yoheinakajima/babyagi)
+ 	- Default model is OpenAI GPT3-turbo
+ 	- Paper: [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
+- [**BabyCatAGI**](https://replit.com/@YoheiNakajima/BabyCatAGI)
+	- BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI. BabyCatAGI is at 300 lines of code.
 - [**BitBuilder**](BitBuilder)
 - [**Bloop**](https://bloop.ai/)
 - [**Butternut AI**](Butternut.ai)
@@ -31,6 +37,15 @@
 - [**Jarvis**]()
 - [**LangChain - Agents Round**](https://blog.langchain.dev/agents-round/)
 - [**LastMile AI**](https://lastmileai.dev/)
+- [**Loop GPT**](https://github.com/farizrahman4u/loopgpt/tree/main)
+ 	- Languages: Python
+ 	- Default model: GPT-3.5-turbo (also possible with GPT-4)
+ 	- Modular Auto-GPT Framework
+ 	- Plug N Play" API - Extensible and modular "Pythonic" framework, not just a command line tool
+ 	- Easy to add new features, integrations and custom agent capabilities, all from python code, no nasty config files!
+ 	- Minimal prompt overhead - Every token counts. We are continuously working on getting the best results with the least possible number of tokens.
+ 	- Human in the Loop - Ability to "course correct" agents who go astray via human feedback.
+ 	- Full state serialization - can save the complete state of an agent, including memory and the states of its tools to a file or python object. No external databases or vector stores required (but they are still supported)!
 - [**Minion AI**](https://minion.ai/) 
 - [**MultiOn**](https://multion.ai/)
 - [**Naut ai**](https://www.naut.ai/)
