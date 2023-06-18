@@ -1,5 +1,4 @@
 # 🔮: AI Agents
-
 <details>
 	<summary> AgentGPT
 	</summary>
