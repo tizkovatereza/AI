@@ -1,6 +1,6 @@
 ## AI Agents
 
-- [**AgentGPT**](https://agentgpt.reworkd.ai/); [GitHub](https://github.com/reworkd/AgentGPT)
+- [**AgentGPT**](https://agentgpt.reworkd.ai/)
 	- Stack
 		- 💅 Frontend: NextJS + Typescript
 		- 🐍 Backend: FastAPI + Python
@@ -8,6 +8,7 @@
 	- Agents use openai functions 
 	- Agents provide sources / citations to their responses
 	- Offer [templates](https://agentgpt.reworkd.ai/templates) for ready-to-deploy agetns 
+	-  [GitHub](https://github.com/reworkd/AgentGPT)
 - [**AIrplane**](https://www.airplane.dev/) - Developer infrastructure for internal tools
 - [**Aomni**](Aomni.com)
 - [**AutoGPT**](https://autogpt.net/) [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
