@@ -12,7 +12,7 @@
 Useful resources, sorted such that they follow your journey from the beginning. Starting with [AI agents](https://github.com/tizkovatereza/AI/blob/main/AI%20Agents.md) "for dummies" and some intuition, through overarching sources and papers to deep-dive into the topics, to building your own agent and finding inspiration in existing use cases.
 
 
-## :gem: Ai Agents for non-technical people
+## :gem: Ai Agents for complete beginners
 - *June 14, 2023* [**AI Agents For Beginners - Intuitive explanation**](https://medium.com/@tereza-tizkova/ai-agents-for-beginners-228b7bd813d4) <br>
 - *April 18, 2023* [**The Complete Beginners Guide To Autonomous Agents**](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) - Overview of autonomous agents, the biggest projects and interesting sources. <br> 
 - *May 26, 2023* [**What is an AI Agent? Characteristics, Advantages, Challenges, Applications**](https://www.simform.com/blog/ai-agent/) - AI agents's structure and functioning explained visually via diagrams. Summary of basic types of agents <br>
