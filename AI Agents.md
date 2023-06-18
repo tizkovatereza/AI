@@ -1,14 +1,28 @@
-## AI Agents
+# 🔮: AI Agents
 
 - [**AgentGPT**](https://agentgpt.reworkd.ai/)
-	- Stack
-		- 💅 Frontend: NextJS + Typescript
-		- 🐍 Backend: FastAPI + Python
-		- 📚 DB: MySQL through docker with the option of running SQLite locally
-	- Agents use openai functions 
-	- Agents provide sources / citations to their responses
-	- Offer [templates](https://agentgpt.reworkd.ai/templates) for ready-to-deploy agetns 
+	- Stack:
+		- Frontend: NextJS + Typescript
+		- Backend: FastAPI + Python
+		- DB: MySQL through docker with the option of running SQLite locally
 	-  [GitHub](https://github.com/reworkd/AgentGPT)
+<details>
+  <summary>[**AgentGPT**](https://agentgpt.reworkd.ai/)</summary>
+
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
 - [**AI Legion**](https://gpt3demo.com/apps/ai-legion)
 	- [GitHub](https://github.com/eumemic/ai-legion)
 - [**AIrplane**](https://www.airplane.dev/) - Developer infrastructure for internal tools
