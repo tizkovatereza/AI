@@ -1,8 +1,8 @@
 # 🔮: AI Agents
 
 <details>
-	**<summary> AgentGPT**
-	</summary>
+	**<summary> AgentGPT
+	</summary>**
 	- [**AgentGPT**](https://agentgpt.reworkd.ai/)
 	- Stack:
 		- Frontend: NextJS + Typescript
