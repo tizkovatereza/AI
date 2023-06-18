@@ -18,7 +18,7 @@ Useful resources, sorted such that they follow your journey from the beginning. 
 - [**What are agents in Artificial Intelligence?**](https://www.educative.io/answers/what-are-agents-in-artificial-intelligence) - An article about intelligent agents
 
 ## :gem: Overarching resources
-### :gem: Lists of AI resources
+### :gem: Lists
 - [**AI canon**](https://a16z.com/2023/05/25/ai-canon/)
 - [**Swyx's Second Brain**](https://github.com/sw-yx/brain) - "This is my public obsidian store of resources and lists and stuff"
 - [**Hacker News - Foundational Papers in AI**](https://news.ycombinator.com/item?id=35824402) - "For someone wanting to ramp up on what’s going on in AI right now, under the hood building these models, what are some good resources? What are your favorite reads?
@@ -44,7 +44,6 @@ Useful resources, sorted such that they follow your journey from the beginning. 
 ## Visualisations for getting the "big picture"
 - [**LLMs Evolutionary Tree****](https://github.com/Mooler0410/LLMsPracticalGuide)
 - [**Visual breakdown on the different types of LangChain agents**](https://twitter.com/jamescodez/status/1664032515882094592/photo/1)
-<br>
 
 ## :gem: Papers and articles
 ### :gem: AI Fundamentals
@@ -128,7 +127,6 @@ Useful resources, sorted such that they follow your journey from the beginning. 
 - [**SuperAGI**](https://superagi.com/)	Infrastructure for building your next app with <Autonomous Agents>	[GitHub](https://github.com/TransformerOptimus/SuperAGI)
 - [**Graphsignal**](https://graphsignal.com/)	Trace, monitor, and debug production AI agents and LLM-powered applications.	[GitHub](https://github.com/graphsignal/graphsignal-python)
 - [**Pezzo**](https://www.pezzo.ai/)	We want to democratize AI and create a provider/model-agnostic platform that’ll enable anyone to benefit from Generative AI without vendor locking.	[GitHub](https://github.com/pezzolabs/pezzo)			
-<br>
 
 ## TO BE SORTED
 - [**Simulators**](https://generative.ink/posts/simulators/) - "Self-supervised learning may create AGI or its foundation. What would that look like?"
@@ -156,13 +154,13 @@ Useful resources, sorted such that they follow your journey from the beginning. 
 - [**Open Source AI Is Not Winning—Incumbents Are**](https://thealgorithmicbridge.substack.com/p/open-source-ai-is-not-winningincumbents?utm_source=post-email-) - An article about how generative AI is not a threat for incumbent companies and wealthy startups
 - [**GPT Best practices**](https://platform.openai.com/docs/guides/gpt-best-practices) - This guide shares strategies and tactics for getting better results from GPTs.
 - [**Scaling**](https://dynomight.net/scaling/)
-<br>
 
-## AI Agents
+## TODO: AI Agents
 - [**AgentGPT**](https://agentgpt.reworkd.ai/)
+Is opensource - [GitHub](https://github.com/reworkd/AgentGPT)
 - [**AIrplane**](https://www.airplane.dev/) - Developer infrastructure for internal tools
 - [**Aomni**](Aomni.com)
-- [**AutoGPT**](https://autogpt.net/)[GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
+- [**AutoGPT**](https://autogpt.net/) [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
 - [**BabyAGI**](https://github.com/yoheinakajima/babyagi)
 - [**BitBuilder**](BitBuilder)
 - [**Bloop**](https://bloop.ai/)
@@ -184,7 +182,7 @@ Useful resources, sorted such that they follow your journey from the beginning. 
 - [**LastMile AI**](https://lastmileai.dev/)
 - [**Minion AI**](https://minion.ai/) 
 - [**MultiOn**](https://multion.ai/)
-- [**Naut ai**] (https://www.naut.ai/)
+- [**Naut ai**](https://www.naut.ai/)
 - [**Pezzo**](https://www.pezzo.ai/)
 - [**Saga**](https://saga.so/) 
 - [**Second**](https://www.second.dev/)
