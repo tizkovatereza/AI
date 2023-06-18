@@ -1,6 +1,10 @@
 ## AI Agents
 
 - [**AgentGPT**](https://agentgpt.reworkd.ai/); [GitHub](https://github.com/reworkd/AgentGPT)
+- 	- Stack
+		- 💅 Frontend: NextJS + Typescript
+		- 🐍 Backend: FastAPI + Python
+		- 📚 DB: MySQL through docker with the option of running SQLite locally
 - [**AIrplane**](https://www.airplane.dev/) - Developer infrastructure for internal tools
 - [**Aomni**](Aomni.com)
 - [**AutoGPT**](https://autogpt.net/) [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
