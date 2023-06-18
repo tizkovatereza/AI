@@ -1,7 +1,7 @@
 # 🔮: AI Agents
 
 <details>
-	<summary> **AgentGPT**
+	**<summary> AgentGPT**
 	</summary>
 	- [**AgentGPT**](https://agentgpt.reworkd.ai/)
 	- Stack:
