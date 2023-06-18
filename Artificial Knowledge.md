@@ -155,28 +155,28 @@ Useful resources, sorted such that they follow your journey from the beginning. 
 - [**GPT Best practices**](https://platform.openai.com/docs/guides/gpt-best-practices) - This guide shares strategies and tactics for getting better results from GPTs.
 - [**Scaling**](https://dynomight.net/scaling/)
 
-## TODO: AI Agents
-- [**AgentGPT**](https://agentgpt.reworkd.ai/)
-Is opensource - [GitHub](https://github.com/reworkd/AgentGPT)
-- [**AIrplane**](https://www.airplane.dev/) - Developer infrastructure for internal tools
+## AI Agents
+*Find more details about each agent in the special file [here](https://github.com/tizkovatereza/AI/blob/main/AI%20Agents).*
+- [**AgentGPT**](https://agentgpt.reworkd.ai/); [GitHub](https://github.com/reworkd/AgentGPT);
+- [**AIrplane**](https://www.airplane.dev/)
 - [**Aomni**](Aomni.com)
 - [**AutoGPT**](https://autogpt.net/) [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
 - [**BabyAGI**](https://github.com/yoheinakajima/babyagi)
 - [**BitBuilder**](BitBuilder)
 - [**Bloop**](https://bloop.ai/)
 - [**Butternut AI**](Butternut.ai)
-- [**Camel**](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
-- [**Cognosys**](https://cognosys.ai) - Friendly UI for building AI agents
+- [**Camel**](https://github.com/camel-ai/camel)
+- [**Cognosys**](https://cognosys.ai)
 - [**Databerry**](https://www.databerry.ai/)
 - [**Factory**](https://www.factory.ai/)
 - [**Fixie**](https://www.fixie.ai/)
-- [**Generative Agents**](https://arxiv.org/abs/2304.03442) - "Paper presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents"
+- [**Generative Agents**](https://arxiv.org/abs/2304.03442)
 - [**GitWit**](https://www.gitwit.dev/) 
 - [**Grit**](https://www.grit.io/)
 - [**HayStack Agent**](https://docs.haystack.deepset.ai/docs/agent)
 - [**Hex Magic**](https://hex.tech/product/magic-ai/)
-- [**Heymoon.ai**](https://heymoon.ai/) - Personal assistant for life: to keep you on top of your calendar, tasks and information. Was at Llama event demo
-- [**Hyperwrite**](https://www.hyperwriteai.com/) - Your personal AI writing assistant
+- [**Heymoon.ai**](https://heymoon.ai/)
+- [**Hyperwrite**](https://www.hyperwriteai.com/)
 - [**Jarvis**]()
 - [**LangChain - Agents Round**](https://blog.langchain.dev/agents-round/)
 - [**LastMile AI**](https://lastmileai.dev/)
@@ -191,6 +191,18 @@ Is opensource - [GitHub](https://github.com/reworkd/AgentGPT)
 - [**Sweep**](https://sweep.dev/) 
 - [**Twitter - Introducing "🤖 Task-driven Autonomous Agent"**](https://twitter.com/yoheinakajima/status/1640934493489070080?s=20)
 
+
+## *>> [More info about AI Agents](https://github.com/tizkovatereza/AI/blob/main/AI%20Agents)*
+
+<br>
+
+# 💪 Contributors 💪 
+
+<a href="https://github.com/tizkovatereza/AI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tizkovatereza/AI" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 	
 
