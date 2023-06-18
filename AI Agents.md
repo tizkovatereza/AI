@@ -3,7 +3,7 @@
 *Welcome to our list of AI autonomous agents. Your favorite one is missing? Add them via pull request. :heart:*
 
 [![Discord](https://img.shields.io/static/v1?label=Join&message=our%20discord!&color=mediumslateblue)](https://discord.gg/5GmKg5Uz)
-  <a href="https://github.com/tizkovatereza/AI/blob/main/Artificial%20Knowledge.md/pulls">
+  <a href="https://github.com/tizkovatereza/AI/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
   <a href="https://twitter.com/e2b_dev" target="_blank">
