@@ -1,6 +1,10 @@
 # 🔮: AI Agents
 
-
+<details>
+	<summary> AgentGPT
+	</summary>
+	Peek a boo!
+</details>
 <details>
   <summary> AgentGPT
   - [**AgentGPT**](https://agentgpt.reworkd.ai/)
