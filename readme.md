@@ -1,4 +1,4 @@
-# 🔮: AI Agents
+# 🔮 AI Agents
 
 *Welcome to our list of AI autonomous agents. Your favorite one is missing? Add them via pull request. :heart:*
 
