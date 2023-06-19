@@ -22,15 +22,14 @@ Stack:
 -  [GitHub](https://github.com/reworkd/AgentGPT)
 </details>
 
-## [AI Legion](https://gpt3demo.com/apps/ai-legion)
-Here is a short summary
-<details>
+<details><summary>AI Legion</summary>
 - [**AI Legion**](https://gpt3demo.com/apps/ai-legion)
 - [GitHub](https://github.com/eumemic/ai-legion)
 </details>
 
-## AIrplane
+<details><summary>AIrplane</summary>
 - [**AIrplane**](https://www.airplane.dev/) - Developer infrastructure for internal tools
+</details>
 
 <details><summary>Aomni</summary>
 - [**Aomni**](Aomni.com)
