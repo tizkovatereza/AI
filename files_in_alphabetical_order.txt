@@ -1,0 +1,9 @@
+.git
+Artificial Knowledge.md
+blackjack-strategy
+christmas_emoji_printer.py
+files_starting_with_r.txt
+main.py
+Python Experiments.py
+pyproject.toml
+README.md
