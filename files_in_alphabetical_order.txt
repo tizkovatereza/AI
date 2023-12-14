@@ -1,9 +1,9 @@
-.git
 Artificial Knowledge.md
-blackjack-strategy
-christmas_emoji_printer.py
-files_starting_with_r.txt
-main.py
+Blackjack-strategy (directory)
+Christmas_emoji_printer.py
+Files_in_alphabetical_order.txt
+Files_starting_with_r.txt
+Main.py
 Python Experiments.py
-pyproject.toml
+Pyproject.toml
 README.md
