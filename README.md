@@ -29,3 +29,5 @@ Jingle code, jingle code,
 Jingle all the way.
 Oh! what fun it is to push
 To the repo far away, hey! :rocket: :star2:
+
+:sparkles: :computer: :octocat:
