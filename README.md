@@ -31,3 +31,7 @@ Oh! what fun it is to push
 To the repo far away, hey! :rocket: :star2:
 
 :sparkles: :computer: :octocat:
+
+## Go Home
+
+Time to pack up and go home! :house_with_garden: End your coding session by closing your editor, committing your changes, and enjoy your well-deserved rest! :sleeping_bed:
