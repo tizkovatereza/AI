@@ -1,0 +1,14 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to tell the weather by city.",
+  "main": "index.js",
+  "scripts": {
+    "weather": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
