@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Countdown Timer</title>
+<script src="countdown.js"></script>
+<style>
+#countdown {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#timer {
+  text-align: center;
+}
+div.time-unit {
+  margin: 0 15px;
+}
+</style>
+</head>
+<body>
+<div id="countdown">
+  <div id="timer">
+    <div class="time-unit">
+      <span id="days"></span> days
+    </div>
+    <div class="time-unit">
+      <span id="hours"></span> hours
+    </div>
+    <div class="time-unit">
+      <span id="minutes"></span> minutes
+    </div>
+    <div class="time-unit">
+      <span id="seconds"></span> seconds
+    </div>
+  </div>
+</div>
+</body>
+</html>
